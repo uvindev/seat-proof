@@ -416,7 +416,7 @@ export default function Home() {
           </p>
         </div>
         <div className="price-block">
-          <span>TEAM / [TARGET]</span>
+          <span>TEAM / PROPOSED</span>
           <strong>
             $24<small>/ workspace / month</small>
           </strong>
