@@ -49,7 +49,7 @@ The full product boundary and evidence are in [docs/SPEC.md](docs/SPEC.md) and [
 
 ## Commercial status
 
-The local workbench is free. Team is a `[TARGET] $24/workspace/month` hypothesis for saved audit history, source connectors, owner approvals, renewal calendars, and exception policies. No checkout is configured. Revenue and customer counts are unverified.
+The local workbench is free. No checkout is configured. Revenue and customer counts are unverified.
 
 ## Privacy
 
