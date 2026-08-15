@@ -13,6 +13,8 @@ It flags:
 
 The workbench does not upload, persist, or revoke anything. Identifiers are masked on screen by default. Cost totals stay separated by currency and are described as estimates from supplied data.
 
+![SeatProof on load: the review queue for SaaS licence seats before renewal](docs/screenshot.png)
+
 ## Run locally
 
 ```bash
